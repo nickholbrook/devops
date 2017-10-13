@@ -1,0 +1,3 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "nrel/CentOS-6.5-x86_64"
+end
